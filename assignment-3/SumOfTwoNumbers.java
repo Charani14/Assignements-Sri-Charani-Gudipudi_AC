@@ -18,7 +18,6 @@ public class SumOfTwoNumbers {
 
         int sum = sumOfTwoNumbers(firstNumber, secondNumber);
 
-        // Display the result
         System.out.println("The sum of " + firstNumber + " and " 
                            + secondNumber + " is " + sum + ".");
 
